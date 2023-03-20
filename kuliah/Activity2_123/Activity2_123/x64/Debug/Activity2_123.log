@@ -1,0 +1,4 @@
+﻿  Activity2_123.cpp
+D:\kuliah\Activity2_123\Activity2_123\Activity2_123.cpp(9,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\kuliah\Activity2_123\Activity2_123\Activity2_123.cpp(13,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Activity2_123.vcxproj -> D:\kuliah\Activity2_123\x64\Debug\Activity2_123.exe
